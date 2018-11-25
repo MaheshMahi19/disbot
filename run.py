@@ -18,5 +18,5 @@ async def on_message(message):
    
   
 
-cleint.run('NTEzMzE2MTgzNTA0ODQ2ODU4.DtwsHg.AhmCqvSJqXP47x4UzL-SGXhB6rI
+client.run('NTEzMzE2MTgzNTA0ODQ2ODU4.DtwsHg.AhmCqvSJqXP47x4UzL-SGXhB6rI
 ')
